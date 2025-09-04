@@ -40,7 +40,7 @@ Expandable questions with smooth animation.
 ---
 
 ## 🌐 Live Demo  
-👉 [Click here to try Netflix Clone](https://yuvarajssyk.github.io/netflix-clone/)  
+👉 [Click here to try Netflix Clone](https://yuvarajssyk.github.io/Netflix-Homepage-Clone/)  
 
 ---
 
