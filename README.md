@@ -5,30 +5,50 @@ This project recreates the look and feel of Netflix’s official landing page wi
 
 ---
 
-## 🚀 Features
-- 🎨 Responsive Netflix-style UI  
-- 🖼️ Image slider with next/prev navigation  
-- 📂 Sections: TV, Watch Everywhere, Kids, Downloads  
-- ❓ FAQ section with expand/collapse answers  
-- 📱 Mobile-friendly layout  
-- 🔑 Sign-in button redirect  
+## 🚀 Features  
+🎨 Netflix-style responsive design  
+🖼️ Hero section with image slider (next/prev controls + pager dots)  
+📝 Email subscription form  
+📺 Feature sections: Watch on TV, Watch Everywhere, Kids Profile, Downloads  
+❓ FAQ section with expand/collapse answers  
+🔑 Sign-in button redirect  
+📱 Mobile-friendly layout  
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5** → Page structure  
-- **CSS3** → Styling & responsive design  
-- **JavaScript (jQuery)** → Slider + interactivity  
-- **jQuery Cycle Plugin** → Image transitions  
+## 🖥️ Tech Stack  
+- **Frontend:** HTML5, CSS3, JavaScript (jQuery)  
+- **Plugin:** jQuery Cycle (for slider)  
+- **Icons:** SVG-based icons  
 
 ---
 
-## 📷 Screenshots
-> *(Add screenshots of your project UI here — for example `images/demo.png`)*  
+## 📸 Screenshots  
+### 🏠 Homepage  
+Hero section with slider and subscription form.  
+
+### 📂 Features Section  
+TV, devices, kids, and download showcases.  
+
+### ❓ FAQ Section  
+Expandable questions with smooth animation.  
 
 ---
 
-## ⚡ How to Run the Project
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yuvarajssyk/netflix-clone.git
+## 📂 Project Structure  
+
+---
+
+## 🌐 Live Demo  
+👉 [Click here to try Netflix Clone](https://yuvarajssyk.github.io/netflix-clone/)  
+
+---
+
+## 📄 License  
+This project is for **educational purposes only**.  
+Netflix® is a registered trademark of Netflix, Inc.  
+This clone is made purely for practice.  
+
+---
+
+✨ **Created by [Yuvaraj S](https://github.com/yuvarajssyk)**  
